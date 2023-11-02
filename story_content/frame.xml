@@ -23,7 +23,7 @@
           <option name="sidebar_enabled" value="true">
             <options>
               <option name="sidebarpos" value="right" />
-              <option name="closed" value="true" />
+              <option name="closed" value="false" />
             </options>
           </option>
           <optionlist name="tabs">
